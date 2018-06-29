@@ -10,6 +10,6 @@ $('img:last');
 }
 
 function ninjaBabySelector() {
-$('p');
+$('#baby-ninja');
   return;
 }
