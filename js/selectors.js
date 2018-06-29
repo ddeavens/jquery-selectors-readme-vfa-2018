@@ -14,6 +14,11 @@ function ninjaBabySelector() {
   return;
 }
 
+function firstListItemSelector() {
+$('img:last');
+  return;
+}
+
 function divSelector() {
 $('#baby-ninja');
   return;
