@@ -1,2 +1,2 @@
 // declare your functions here...
-functon (paragraphSelector) { $('img')}
+functon (paragraphSelector); { $('img')}
