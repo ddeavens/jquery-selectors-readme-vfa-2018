@@ -15,7 +15,7 @@ function ninjaBabySelector() {
 }
 
 function firstListItemSelector() {
-$('parent-tag child-tag:first-child');
+$('.pics .pic-list:first-child');
   return;
 }
 
