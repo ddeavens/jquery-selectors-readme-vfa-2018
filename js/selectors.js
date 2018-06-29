@@ -10,7 +10,7 @@ $('img:last');
 }
 
 function ninjaBabySelector() {
-$('#baby-ninja');
+ $('parent-tag child-tag:first-child');
   return;
 }
 
