@@ -15,7 +15,7 @@ function ninjaBabySelector() {
 }
 
 function firstListItemSelector() {
-$('img:last');
+$('parent-tag child-tag:first-child');
   return;
 }
 
